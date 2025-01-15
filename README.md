@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Emily Iannetta! 
+
+- ⚡ Recently, received my PhD in Bioinformatics from Georgia Tech
+- 💬  My dissertation work was focused on determining the regulatory function of common variants in eQTL as well as rare variants
+- 🔬 Expert in analyzing data from CRISPR-screenings and scRNA sequencing
+- 📫 Originally from NC, now located in Boston, MA!
+- 😄 Pronouns: She/Her
+
 
 <!--
 **EmilyGreenwood/EmilyGreenwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
