@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Emily Iannetta! 
 
 - ⚡ Recently, received my PhD in Bioinformatics from Georgia Tech
-- 💬  My dissertation work was focused on determining the regulatory function of common variants in eQTL as well as rare variants
+- 💬 My dissertation work in the Gibson Lab at GT was focused on determining the regulatory function of common variants in eQTL as well as rare variants
 - 🔬 Expert in analyzing NGS data from CRISPR-screenings and scRNA sequencing
 - 📫 Originally from NC, now located in Boston, MA!
 - 😄 Pronouns: She/Her
