@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Emily Iannetta! 
-- 💬 Recently, I received my PhD in Bioinformatics from Georgia Tech. My dissertation work in the Gibson Lab at GT was focused on determining the regulatory function of common variants in eQTL as well as rare variants through the use of CRISPR/Cas9 and scRNA-sequencing
-- 🔬 Expert in analyzing NGS and omics data
-- ⚡ I am passionate about utilizing large datasets to answer biological questions
+- 💬 I received my PhD in Bioinformatics from the Gibson Lab at Georgia Tech. My dissertation work was focused on determining the regulatory function of common variants in eQTL as well as rare variants through the use of CRISPR/Cas9 and scRNA-sequencing. My current work, as a post doc in the Gillani lab at Dana-Farber Cancer Institute, is focused on uncovering germline genetic risk variants in pediatric cancer.
+- 🔬 Expert in analyzing WGS, NGS, and omics data. I am passionate about utilizing large datasets to answer biological questions
 - 📫 Originally from NC, now located in Boston, MA
 - 😄 Pronouns: She/Her
 
